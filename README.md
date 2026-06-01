@@ -39,6 +39,10 @@ npm install
 npm run dev
 ```
 
+## Images
+<img width="1773" height="968" alt="Screenshot 2026-06-01 at 11 52 34 AM" src="https://github.com/user-attachments/assets/1f4d4448-5411-4557-b2ee-e86d73aeb30f" />
+
+
 ## Notes
 
 - Supported uploads: PDF, TXT, and CSV.
